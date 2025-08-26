@@ -36,6 +36,8 @@ This demonstrates the guided process for creating a new unit. The tool automates
 
 Ready to simplify your modding workflow?
 
+**Please Note:** This tool is designed to work with the **Gates of Hell: Ostfront** game files and will not function without the game installed.
+
 You can download the latest version of the tool directly from this Google Drive link.
 
 **[Download the Modding Toolkit Here](https://drive.google.com/file/d/1wwN6evuZmofa8uT8678YUXJ63qHDFdpo/view?usp=sharing)**
